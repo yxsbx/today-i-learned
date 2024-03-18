@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Coiny&amp;family=Sono:wght@400;600&amp;display=swap"
+      href="https://fonts.googleapis.com/css2?family=Coiny&family=Sono:wght@400;600&display=swap"
       rel="stylesheet"
     />
 
@@ -20,7 +20,7 @@
       <header class="header">
         <div class="logo">
           <img
-            src="img/logo.png"
+            src="logo.png"
             height="68"
             width="68"
             alt="Today I Learned Logo"
@@ -28,10 +28,10 @@
           <h1>Today I Learned</h1>
         </div>
 
-        <button class="btn btn-large">Share a fact</button>
+        <button class="btn btn-large btn-open">Share a fact</button>
       </header>
 
-      <form class="fact-form">
+      <form class="fact-form hidden">
         <input type="text" placeholder="Share a fact with the world..." />
         <span>200</span>
         <input type="text" placeholder="Trustworthy source..." />
@@ -70,7 +70,7 @@
         </aside>
 
         <section>
-          <ul>
+          <ul class="facts-list">
             <li class="fact">
               <p>
                 React is being developed by Meta (formerly facebook)
@@ -115,5 +115,7 @@
         </section>
       </main>
     </div>
+
+    <script src="script.js"></script>
   </body>
 </html>
