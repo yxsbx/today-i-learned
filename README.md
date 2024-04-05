@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Today I Learned
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview (English)
 
-## Available Scripts
+Welcome to the "Today I Learned" full-stack application. This platform serves as a dynamic space for users to share and discover fascinating facts from various categories. It's designed to be interactive, informative, and engaging.
 
-In the project directory, you can run:
+### Features
 
-### `npm start`
+- **Fact Sharing**: Users can submit new facts to the database through a user-friendly form.
+- **Category Filtering**: Facts can be filtered by categories such as technology, science, finance, and more.
+- **Voting System**: Each fact can be voted on, with options for interesting, mindblowing, or false.
+- **Responsive Design**: The UI is responsive, ensuring a smooth experience across all devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Frontend**: The user interface is built using React.js, offering a reactive and component-driven experience.
+- **Backend**: Supabase is utilized for the backend, providing a scalable and secure database for storing facts.
+- **Styling**: The application is styled with modern CSS, including flexbox and grid for layout management.
 
-### `npm test`
+### Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get started with this project, clone the repository and install the dependencies:
 
-### `npm run build`
+git clone <(https://github.com/yxsbx/today-i-learned.git)>
+cd today-i-learned
+npm install
+npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Visão Geral do Projeto (Português)
 
-### `npm run eject`
+Bem-vindo ao aplicativo full-stack "Today I Learned". Esta plataforma serve como um espaço dinâmico para usuários compartilharem e descobrirem fatos fascinantes de várias categorias. É projetado para ser interativo, informativo e envolvente.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Funcionalidades
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Compartilhamento de Fatos**: Usuários podem enviar novos fatos para o banco de dados por meio de um formulário fácil de usar.
+- **Filtro por Categoria**: Fatos podem ser filtrados por categorias como tecnologia, ciência, finanças e mais.
+- **Sistema de Votação**: Cada fato pode ser votado, com opções para interessante, surpreendente ou falso.
+- **Design Responsivo**: A UI é responsiva, garantindo uma experiência suave em todos os dispositivos.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Tecnologias Utilizadas
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Frontend**: A interface do usuário é construída usando React.js, oferecendo uma experiência reativa e orientada a componentes.
+- **Backend**: Supabase é utilizado para o backend, fornecendo um banco de dados escalável e seguro para armazenar fatos.
+- **Estilização**: O aplicativo é estilizado com CSS moderno, incluindo flexbox e grid para gerenciamento de layout.
 
-## Learn More
+### Primeiros Passos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para começar com este projeto, clone o repositório e instale as dependências:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+git clone <(https://github.com/yxsbx/today-i-learned.git)>
+cd today-i-learned
+npm install
+npm start
