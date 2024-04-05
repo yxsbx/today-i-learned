@@ -21,10 +21,10 @@ Welcome to the "Today I Learned" full-stack application. This platform serves as
 
 To get started with this project, clone the repository and install the dependencies:
 
-git clone <(https://github.com/yxsbx/today-i-learned.git)>
-cd today-i-learned
-npm install
-npm start
+- git clone <(https://github.com/yxsbx/today-i-learned.git)>
+- cd today-i-learned
+- npm install
+- npm start
 
 
 ---
@@ -50,7 +50,7 @@ Bem-vindo ao aplicativo full-stack "Today I Learned". Esta plataforma serve como
 
 Para começar com este projeto, clone o repositório e instale as dependências:
 
-git clone <(https://github.com/yxsbx/today-i-learned.git)>
-cd today-i-learned
-npm install
-npm start
+- git clone <(https://github.com/yxsbx/today-i-learned.git)>
+- cd today-i-learned
+- npm install
+- npm start
